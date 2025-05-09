@@ -1,1 +1,6 @@
-# tarefas-projecao-frontend
+# tarefas-projecao-frontend![tela de verificação de inscrições](https://github.com/user-attachments/assets/25054e93-e60f-4b34-978e-fedd394edd3e)
+![tela de verificação de cancelamento de inscrições](https://github.com/user-attachments/assets/adafd508-6f00-4348-a029-6ccf12d1eb45)
+![Tela de login](https://github.com/user-attachments/assets/3ed2b777-59e5-4f8d-b897-a74a7be0d2ff)
+![tela de inscrições](https://github.com/user-attachments/assets/f9cdf23e-5e4a-4680-aefb-f3b7765dcff6)
+![Tela de criação de conta](https://github.com/user-attachments/assets/f9b99925-2cdb-4d92-891a-b52bec33f65c)
+![tela de cancelamento de inscrições](https://github.com/user-attachments/assets/aa28f611-a694-4d15-8b6c-645f3654b2fe)
